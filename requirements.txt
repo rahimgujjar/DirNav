@@ -1,0 +1,5 @@
+PyQt5>=5.15.0
+python-magic-bin>=0.4.14; platform_system == "Windows"
+pywin32>=306; platform_system == "Windows"
+Pillow>=10.0.0
+reportlab>=4.0.0
